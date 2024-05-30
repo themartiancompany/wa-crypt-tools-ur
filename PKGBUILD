@@ -20,7 +20,7 @@ arch=(
   'any'
 )
 license=(
-  'BSD'
+  'GPL3'
 )
 depends=(
   "${_py}"
