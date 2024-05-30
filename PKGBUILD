@@ -17,11 +17,7 @@ _http="https://github.com"
 _ns="ElDavoo"
 url="${_http}/${_ns}/${_pkg}"
 arch=(
-  'x86_64'
-  'arm'
-  'aarch64'
-  'i686'
-  'powerpc'
+  'any'
 )
 license=(
   'BSD'
