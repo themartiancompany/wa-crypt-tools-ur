@@ -1,0 +1,21 @@
+pkgbase = wa-crypt-tools
+	pkgdesc = Manage WhatsApp .crypt12, .crypt14 and .crypt15 files.
+	pkgver = 0.0.9.r0.c0cf95b6acda292215e33d467f13aa5a8d35cc20
+	pkgrel = 1
+	url = https://github.com/ElDavoo/wa-crypt-tools
+	arch = x86_64
+	arch = arm
+	arch = aarch64
+	arch = i686
+	arch = powerpc
+	license = BSD
+	makedepends = python-setuptools
+	makedepends = python-setuptools-scm
+	makedepends = python-build
+	makedepends = python-installer
+	depends = python
+	provides = python-wa-crypt-tools
+	source = wa-crypt-tools-0.0.9.r0.c0cf95b6acda292215e33d467f13aa5a8d35cc20.tar.gz::https://github.com/ElDavoo/wa-crypt-tools/archive/c0cf95b6acda292215e33d467f13aa5a8d35cc20.zip
+	sha512sums = a9657c706f4e030012c3b6d18f61b4fda5a830e8bd04d9569eb902a76f0ad648e27739b2fb4a74c70e3a4904f3c4744ef99e70a5b3a50841479e9f8b4bb1da94
+
+pkgname = wa-crypt-tools
