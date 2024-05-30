@@ -30,8 +30,6 @@ depends=(
   "${_py}"
 )
 makedepends=(
-  "${_py}-setuptools"
-  "${_py}-setuptools-scm"
   "${_py}-build"
   "${_py}-installer"
 )
